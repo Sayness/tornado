@@ -1,1 +1,1 @@
-python worker.py
+python index.py
